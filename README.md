@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Syeda020
 - 👀 I’m interested in codiding
 - 🌱 I’m currently learning software dev
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on team project
 - 📫 How to reach me .Reach me through out my email.
 
 <!---
